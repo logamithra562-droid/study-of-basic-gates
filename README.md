@@ -63,18 +63,20 @@ Y= A⊕B
 
 
 **PROGRAM**
-
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 25005891;module pgm1(a,b,y1,y2,y3,y4,y5,y6);inputa,b;outputy1;y2,y3,y4,y5,y6;andg1(y1,a,b);org2(y2,a,b);nand g3(y3,a,b);nor g4(y4,a,b);xor g5(y5,a,b);not g6(y6,a);endmodule
- 
-Logic symbol & Truthtable:<img width="875" height="610" alt="Screenshot 2025-10-28 100232" src="https://github.com/user-attachments/assets/def746dc-6df7-4022-b6b5-8e1b7dbb9a96" />
+Developed by: logamithra K RegisterNumber: 212225040201
+
+Logic symbol & Truthtable:
+  <img width="807" height="783" alt="Screenshot 2026-05-21 093852" src="https://github.com/user-attachments/assets/ec8a8a27-52eb-4edd-a733-498f83032ae5" />
+  <img width="777" height="591" alt="Screenshot 2026-05-21 093910" src="https://github.com/user-attachments/assets/9116e9c8-6383-40e6-bdd9-6c4dd8f679bb" />
 
 
-RTL realization Output:<img width="835" height="742" alt="Screenshot 2025-10-28 100252" src="https://github.com/user-attachments/assets/5345d0fd-72de-4adb-a3ed-2d4b6607d5a8" />
+RTL realization Output:
+ <img width="1047" height="595" alt="Screenshot 2026-05-21 093756" src="https://github.com/user-attachments/assets/4d71afc8-a8b9-4f31-98f0-bca9348f28e5" />
 
 
-RTL:<img width="1056" height="592" alt="Screenshot 2025-10-28 100205" src="https://github.com/user-attachments/assets/e5ecfca3-5a25-4d79-9472-2ec1418659a2" />
+RTL:
+ <img width="1357" height="767" alt="Screenshot 2026-05-21 093826" src="https://github.com/user-attachments/assets/8d1d46dd-247e-46b8-a28d-b2e4a264fa2a" />
 
-
-Result: Hence verified the truth table of logic gates in QUARTUS 2 using verilog programming
+Result: Thus the truth table of logic gates in Quartus II using Verilog programming is studied and verified successfully.
